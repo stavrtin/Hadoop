@@ -1,0 +1,2 @@
+pyinstaller window_parser.py -F -w
+
